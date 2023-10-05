@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "chokidar": "^3.5.3",
-    "electron": "^17.0.1",
+    "electron": "^22.3.25",
     "mobx": "^6.4.0",
     "prettier": "^2.1.2",
     "ts-morph": "^9.1.0"
